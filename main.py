@@ -1,1 +1,3 @@
-print("Hello, there!")
+print("Cześć!")
+print("4+2")
+print(4+2)

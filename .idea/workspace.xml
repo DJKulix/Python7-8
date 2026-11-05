@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e22cdd5c-c28f-49a6-be5e-172d99805773" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/L1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdfNames.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonMisc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonMisc.iml" afterDir="false" />
+    <list default="true" id="e22cdd5c-c28f-49a6-be5e-172d99805773" name="Changes" comment="l1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/L1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imiona.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdfNames.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,13 +17,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="12" />
+    <option name="cachedIndexableFilesCount" value="13" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -48,23 +49,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0376814985270357" />
-      <entry key="MS500" value="1.5441176581666052" />
-      <entry key="S2" value="2.64505156416611" />
-      <entry key="S5" value="4.2322828168216455" />
-      <entry key="S10" value="5.720633385632122" />
-      <entry key="S30" value="7.5771216030407995" />
-      <entry key="S60" value="8.249959875123489" />
-      <entry key="M2" value="9.065840763051211" />
-      <entry key="M5" value="17.197349010864166" />
-      <entry key="M10" value="46.4916827010103" />
-      <entry key="M15" value="74.45132623177462" />
-      <entry key="M30" value="125.54652355274054" />
-      <entry key="H1" value="165.51994745846557" />
-      <entry key="H2" value="190.64766281552733" />
-      <entry key="H4" value="204.75287274992252" />
-      <entry key="D1" value="217.37558240676913" />
-      <entry key="W1" value="219.62299159400803" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000009086542718" />
+      <entry key="S2" value="1.080768438659294" />
+      <entry key="S5" value="2.039614802365548" />
+      <entry key="S10" value="3.9655971720224517" />
+      <entry key="S30" value="12.506639564003462" />
+      <entry key="S60" value="22.834970598861098" />
+      <entry key="M2" value="34.61026425787231" />
+      <entry key="M5" value="51.441682214386574" />
+      <entry key="M10" value="80.16519524095315" />
+      <entry key="M15" value="108.01048404804644" />
+      <entry key="M30" value="162.23116410397415" />
+      <entry key="H1" value="207.1035749617596" />
+      <entry key="H2" value="236.21721952215407" />
+      <entry key="H4" value="252.8331121890663" />
+      <entry key="D1" value="267.85827743516904" />
+      <entry key="W1" value="270.5483082561295" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -86,23 +87,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9824555750034442" />
-      <entry key="MS500" value="1.529237912424609" />
-      <entry key="S2" value="2.6387235248215477" />
-      <entry key="S5" value="4.228039947233146" />
-      <entry key="S10" value="5.717675944956459" />
-      <entry key="S30" value="7.5757804643766296" />
-      <entry key="S60" value="8.249224770201758" />
-      <entry key="M2" value="9.065435840041323" />
-      <entry key="M5" value="17.196623358617156" />
-      <entry key="M10" value="46.489971306409004" />
-      <entry key="M15" value="74.44929187525224" />
-      <entry key="M30" value="125.54468037471591" />
-      <entry key="H1" value="165.51870111238458" />
-      <entry key="H2" value="190.64693739391075" />
-      <entry key="H4" value="204.7524813215604" />
-      <entry key="D1" value="217.37551288397137" />
-      <entry key="W1" value="219.62298155317868" />
+      <entry key="MS100" value="0.9265880618903709" />
+      <entry key="MS500" value="0.9848673341701702" />
+      <entry key="S2" value="1.076128113737087" />
+      <entry key="S5" value="2.0326864859745073" />
+      <entry key="S10" value="3.9576475074257016" />
+      <entry key="S30" value="12.500704706216696" />
+      <entry key="S60" value="22.830651217090246" />
+      <entry key="M2" value="34.607410689256525" />
+      <entry key="M5" value="51.439963399807965" />
+      <entry key="M10" value="80.16323749620605" />
+      <entry key="M15" value="108.0083526034337" />
+      <entry key="M30" value="162.22925751154702" />
+      <entry key="H1" value="207.10226681159196" />
+      <entry key="H2" value="236.21644950640191" />
+      <entry key="H4" value="252.83269399651152" />
+      <entry key="D1" value="267.85820272675517" />
+      <entry key="W1" value="270.54829745526285" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,32 +114,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "Python.pdfNames.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/mkula/Projects/PycharmProjects/PythonMisc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pdfNames.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mkula/Projects/PycharmProjects/PythonMisc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonMisc" />
@@ -218,8 +219,18 @@
       <workItem from="1790749670255" duration="880000" />
       <workItem from="1791182096186" duration="1344000" />
       <workItem from="1793023356681" duration="1537000" />
-      <workItem from="1793539019595" duration="2055000" />
+      <workItem from="1793539019595" duration="2517000" />
+      <workItem from="1793618076609" duration="8570000" />
     </task>
+    <task id="LOCAL-00001" summary="l1">
+      <option name="closed" value="true" />
+      <created>1793541335966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793541335966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,8 +247,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="l1" />
+    <option name="LAST_COMMIT_MESSAGE" value="l1" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonMisc$main.coverage" NAME="main Coverage Results" MODIFIED="1793025301440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonMisc$main.coverage" NAME="main Coverage Results" MODIFIED="1793628928121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonMisc$pdfNames.coverage" NAME="pdfNames Coverage Results" MODIFIED="1790749871900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
